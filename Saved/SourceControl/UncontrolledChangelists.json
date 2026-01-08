@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/JV2ALEXISD/Unreal/GitHub/DUF_ALE_RPG/Content/Blueprint/BP_FL_Shortcut.uasset",
+				"D:/JV2ALEXISD/Unreal/GitHub/DUF_ALE_RPG/Content/Blueprint/BP_DA_Item.uasset",
+				"D:/JV2ALEXISD/Unreal/GitHub/DUF_ALE_RPG/Content/Blueprint/BP_PNJ.uasset",
+				"D:/JV2ALEXISD/Unreal/GitHub/DUF_ALE_RPG/Content/Blueprint/E_Rarity.uasset",
+				"D:/JV2ALEXISD/Unreal/GitHub/DUF_ALE_RPG/Content/Data/Items/DA_I_Potion.uasset",
 				"D:/JV2ALEXISD/RPG/DUF_ALE_RPG/Content/Blueprint/BP_PNJ.uasset",
 				"D:/JV2ALEXISD/RPG/DUF_ALE_RPG/Content/TopDown/Blueprints/BP_TopDownController.uasset",
 				"D:/JV2ALEXISD/RPG/DUF_ALE_RPG/Content/Blueprint/Interactables/BP_Interactable.uasset",
