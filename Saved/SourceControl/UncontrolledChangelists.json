@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/alex6/Documents/Cours ESMA/JV2/Prog/DUF_ALE_RPG/Content/AI/BB_Main.uasset",
+				"C:/Users/alex6/Documents/Cours ESMA/JV2/Prog/DUF_ALE_RPG/Content/AI/BB_MainBehaviourBlackBoard.uasset",
+				"C:/Users/alex6/Documents/Cours ESMA/JV2/Prog/DUF_ALE_RPG/Content/AI/BT_MainBehaviour.uasset",
+				"C:/Users/alex6/Documents/Cours ESMA/JV2/Prog/DUF_ALE_RPG/Content/Blueprint/AI/BP_BTT_LaunchSpell.uasset",
+				"C:/Users/alex6/Documents/Cours ESMA/JV2/Prog/DUF_ALE_RPG/Content/Blueprint/Data/BP_DA_Spell.uasset",
+				"C:/Users/alex6/Documents/Cours ESMA/JV2/Prog/DUF_ALE_RPG/Content/Blueprint/BP_RPG_AI_Controller.uasset",
 				"D:/JV2ALEXISD/Unreal/GitHub/DUF_ALE_RPG/Content/Blueprint/BP_FL_Shortcut.uasset",
 				"D:/JV2ALEXISD/Unreal/GitHub/DUF_ALE_RPG/Content/Blueprint/E_Rarity.uasset",
 				"D:/JV2ALEXISD/Unreal/GitHub/DUF_ALE_RPG/Content/Data/Items/DA_I_Potion.uasset",
